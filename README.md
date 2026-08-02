@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/Woodfyn">
-      <img src="https://github-readme-stats-two-bice.vercel.app/api/top-langs/?username=Woodfyn&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Langs" />
+      <img src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=Woodfyn&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
     </a>
   </p>
 
