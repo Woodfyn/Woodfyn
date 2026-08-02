@@ -1,9 +1,9 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; text-align: center;">
 
   <h1>🥷 Back-end Engineer</h1>
   <p>Passionate about clean code, distributed systems, and building things that scale.</p>
 
-  <hr style="width: 100%; max-width: 600px; border: 0.5px solid #ccc; margin: 20px 0;">
+  <hr style="width: 100%; max-width: 600px; border: 0.5px solid #ccc; margin: 20px 0;" />
 
   <h3>👾 Statistics</h3>
   
@@ -13,7 +13,7 @@
     </a>
   </div>
 
-  <hr style="width: 100%; max-width: 600px; border: 0.5px solid #ccc; margin: 20px 0;">
+  <hr style="width: 100%; max-width: 600px; border: 0.5px solid #ccc; margin: 20px 0;" />
 
   <h3>📫 Let’s connect</h3>
 
