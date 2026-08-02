@@ -14,5 +14,6 @@ Passionate about clean code, distributed systems, and building things that scale
 ### 📫 Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vovarud)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/rudvova21)
 
 </div>
