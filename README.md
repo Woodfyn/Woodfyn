@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🥷 Back-end Engineer</h1>
+  <h1>🥷 Software Engineer</h1>
   <p>Passionate about clean code, distributed systems, and building things that scale.</p>
 
   <hr>
